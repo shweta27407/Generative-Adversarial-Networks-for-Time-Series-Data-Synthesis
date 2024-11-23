@@ -1,0 +1,24 @@
+/home/ymax29os/GANs/ams_project-2/transformer_GAN/transformer_model.py:92: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.
+  scaler = GradScaler()
+/home/ymax29os/.local/lib/python3.9/site-packages/torch/amp/grad_scaler.py:132: UserWarning: torch.cuda.amp.GradScaler is enabled, but CUDA is not available.  Disabling.
+  warnings.warn(
+/home/ymax29os/GANs/ams_project-2/transformer_GAN/transformer_model.py:109: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with autocast():
+/home/ymax29os/.local/lib/python3.9/site-packages/torch/amp/autocast_mode.py:265: UserWarning: User provided device_type of 'cuda', but CUDA is not available. Disabling
+  warnings.warn(
+/home/ymax29os/GANs/ams_project-2/transformer_GAN/transformer_model.py:125: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with autocast():
+Epoch [1/2] 	 Discriminator Loss: 0.0859 	 Generator Loss: 0.0888
+Epoch [2/2] 	 Discriminator Loss: 0.0869 	 Generator Loss: 0.0868
+/home/ymax29os/.local/lib/python3.9/site-packages/torch/nn/modules/transformer.py:307: UserWarning: enable_nested_tensor is True, but self.use_nested_tensor is False because encoder_layer.self_attn.batch_first was not True(use batch_first for better inference performance)
+  warnings.warn(f"enable_nested_tensor is True, but self.use_nested_tensor is False because {why_not_sparsity_fast_path}")
+Hello Discrim here!
+[1m[34mDiscriminative Score: 0.5000[0m
+/home/ymax29os/GANs/ams_project-2/transformer_GAN/metrics/predictive_metric.py:122: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  ori_data = torch.tensor(ori_data, dtype=torch.float32).clone().detach().to(device)
+Traceback (most recent call last):
+  File "/home/ymax29os/GANs/ams_project-2/transformer_GAN/main.py", line 92, in <module>
+    predictive_score = predictive_score_metric(real_data, synthetic_data)
+  File "/home/ymax29os/GANs/ams_project-2/transformer_GAN/metrics/predictive_metric.py", line 136, in predictive_score_metric
+    X_mb = generated_data[batch_idx, :, :(dim-1)]  # Fix shape mismatch
+IndexError: too many indices for tensor of dimension 2

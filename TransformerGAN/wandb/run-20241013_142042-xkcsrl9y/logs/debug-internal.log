@@ -1,0 +1,18 @@
+{"time":"2024-10-13T14:20:42.987671839+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-13T14:20:42.987710669+02:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/GANs/ams_project-2/transformer_GAN/wandb/run-20241013_142042-xkcsrl9y/logs/debug-core.log"}
+{"time":"2024-10-13T14:20:42.98781287+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-13T14:20:42.98782025+02:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/GANs/ams_project-2/transformer_GAN/wandb/run-20241013_142042-xkcsrl9y/logs/debug-core.log"}
+{"time":"2024-10-13T14:20:42.990252455+02:00","level":"INFO","msg":"created new stream","id":"xkcsrl9y"}
+{"time":"2024-10-13T14:20:42.990289505+02:00","level":"INFO","msg":"stream: started","id":"xkcsrl9y"}
+{"time":"2024-10-13T14:20:42.990314635+02:00","level":"INFO","msg":"handler: started","stream_id":{"value":"xkcsrl9y"}}
+{"time":"2024-10-13T14:20:42.990356776+02:00","level":"INFO","msg":"sender: started","stream_id":{"value":"xkcsrl9y"}}
+{"time":"2024-10-13T14:20:42.990381996+02:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"xkcsrl9y"}}
+{"time":"2024-10-13T14:20:43.313076081+02:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-13T14:20:43.314717927+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-13T14:21:06.610850225+02:00","level":"INFO","msg":"stream: closing","id":"xkcsrl9y"}
+{"time":"2024-10-13T14:21:06.611000806+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-13T14:21:06.611207568+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-13T14:21:09.399942019+02:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"xkcsrl9y"}}
+{"time":"2024-10-13T14:21:09.40005145+02:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"xkcsrl9y"}}
+{"time":"2024-10-13T14:21:09.400001009+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"xkcsrl9y"}}
+{"time":"2024-10-13T14:21:09.400125861+02:00","level":"INFO","msg":"stream: closed","id":"xkcsrl9y"}

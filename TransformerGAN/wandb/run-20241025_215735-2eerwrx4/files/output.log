@@ -1,0 +1,29 @@
+/home/ymax29os/ams_project-2/transformer_GAN/transformer_model.py:95: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.
+  scaler = GradScaler()
+/home/ymax29os/.local/lib/python3.9/site-packages/torch/amp/grad_scaler.py:132: UserWarning: torch.cuda.amp.GradScaler is enabled, but CUDA is not available.  Disabling.
+  warnings.warn(
+/home/ymax29os/ams_project-2/transformer_GAN/transformer_model.py:112: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with autocast():
+/home/ymax29os/.local/lib/python3.9/site-packages/torch/amp/autocast_mode.py:265: UserWarning: User provided device_type of 'cuda', but CUDA is not available. Disabling
+  warnings.warn(
+/home/ymax29os/ams_project-2/transformer_GAN/transformer_model.py:128: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with autocast():
+Epoch [1/1000] 	 Discriminator Loss: 0.0859 	 Generator Loss: 0.0926
+Epoch [2/1000] 	 Discriminator Loss: 0.0798 	 Generator Loss: 0.0998
+Epoch [3/1000] 	 Discriminator Loss: 0.0840 	 Generator Loss: 0.0995
+Epoch [4/1000] 	 Discriminator Loss: 0.0841 	 Generator Loss: 0.0992
+Epoch [5/1000] 	 Discriminator Loss: 0.0943 	 Generator Loss: 0.0988
+Epoch [6/1000] 	 Discriminator Loss: 0.0975 	 Generator Loss: 0.1047
+Epoch [7/1000] 	 Discriminator Loss: 0.0978 	 Generator Loss: 0.1090
+Epoch [8/1000] 	 Discriminator Loss: 0.0808 	 Generator Loss: 0.1071
+Epoch [9/1000] 	 Discriminator Loss: 0.0812 	 Generator Loss: 0.1131
+Epoch [10/1000] 	 Discriminator Loss: 0.0847 	 Generator Loss: 0.1166
+Epoch [11/1000] 	 Discriminator Loss: 0.0874 	 Generator Loss: 0.1155
+Epoch [12/1000] 	 Discriminator Loss: 0.0848 	 Generator Loss: 0.1236
+Epoch [13/1000] 	 Discriminator Loss: 0.0735 	 Generator Loss: 0.1376
+Traceback (most recent call last):
+  File "/home/ymax29os/ams_project-2/transformer_GAN/main.py", line 52, in <module>
+    generator = train_transformer_model(
+  File "/home/ymax29os/ams_project-2/transformer_GAN/transformer_model.py", line 103, in train_transformer_model
+    gc.collect()
+KeyboardInterrupt

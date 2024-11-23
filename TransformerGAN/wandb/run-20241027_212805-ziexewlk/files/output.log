@@ -1,0 +1,10 @@
+/home/ymax29os/GANs/ams_project-2/transformer_GAN/transformer_model.py:95: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.
+  scaler = GradScaler()
+/home/ymax29os/.local/lib/python3.9/site-packages/torch/amp/grad_scaler.py:132: UserWarning: torch.cuda.amp.GradScaler is enabled, but CUDA is not available.  Disabling.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/home/ymax29os/GANs/ams_project-2/transformer_GAN/main.py", line 52, in <module>
+    generator = train_transformer_model(
+  File "/home/ymax29os/GANs/ams_project-2/transformer_GAN/transformer_model.py", line 128, in train_transformer_model
+    end_idx = start_idx + max_length_adjusted
+UnboundLocalError: local variable 'start_idx' referenced before assignment

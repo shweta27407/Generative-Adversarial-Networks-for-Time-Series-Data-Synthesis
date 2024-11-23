@@ -1,0 +1,20 @@
+{"time":"2024-10-25T22:00:05.591123187+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-25T22:00:05.591161007+02:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/ams_project-2/transformer_GAN/wandb/run-20241025_220005-dbjb1axn/logs/debug-core.log"}
+{"time":"2024-10-25T22:00:05.59129624+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-25T22:00:05.59130983+02:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/ams_project-2/transformer_GAN/wandb/run-20241025_220005-dbjb1axn/logs/debug-core.log"}
+{"time":"2024-10-25T22:00:05.595312511+02:00","level":"INFO","msg":"created new stream","id":"dbjb1axn"}
+{"time":"2024-10-25T22:00:05.595346491+02:00","level":"INFO","msg":"stream: started","id":"dbjb1axn"}
+{"time":"2024-10-25T22:00:05.595393881+02:00","level":"INFO","msg":"sender: started","stream_id":{"value":"dbjb1axn"}}
+{"time":"2024-10-25T22:00:05.595417742+02:00","level":"INFO","msg":"handler: started","stream_id":{"value":"dbjb1axn"}}
+{"time":"2024-10-25T22:00:05.595390651+02:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"dbjb1axn"}}
+{"time":"2024-10-25T22:00:06.053267214+02:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-25T22:00:06.054988722+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-25T22:57:18.185293642+02:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-10-26T01:03:09.303444044+02:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-10-26T01:47:17.455840608+02:00","level":"INFO","msg":"stream: closing","id":"dbjb1axn"}
+{"time":"2024-10-26T01:47:17.455975939+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-26T01:47:17.460704787+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-26T01:47:20.054554927+02:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"dbjb1axn"}}
+{"time":"2024-10-26T01:47:20.054647018+02:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"dbjb1axn"}}
+{"time":"2024-10-26T01:47:20.054649578+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"dbjb1axn"}}
+{"time":"2024-10-26T01:47:20.05481188+02:00","level":"INFO","msg":"stream: closed","id":"dbjb1axn"}

@@ -1,0 +1,97 @@
+/home/ymax29os/ams_project-2/transformer_GAN/transformer_model.py:95: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.
+  scaler = GradScaler()
+/home/ymax29os/.local/lib/python3.9/site-packages/torch/amp/grad_scaler.py:132: UserWarning: torch.cuda.amp.GradScaler is enabled, but CUDA is not available.  Disabling.
+  warnings.warn(
+/home/ymax29os/ams_project-2/transformer_GAN/transformer_model.py:116: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with autocast():
+/home/ymax29os/.local/lib/python3.9/site-packages/torch/amp/autocast_mode.py:265: UserWarning: User provided device_type of 'cuda', but CUDA is not available. Disabling
+  warnings.warn(
+/home/ymax29os/ams_project-2/transformer_GAN/transformer_model.py:132: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with autocast():
+Epoch [1/50] 	 Discriminator Loss: 0.0882 	 Generator Loss: 0.0890
+Epoch [2/50] 	 Discriminator Loss: 0.0847 	 Generator Loss: 0.1059
+Epoch [3/50] 	 Discriminator Loss: 0.0769 	 Generator Loss: 0.1204
+Epoch [4/50] 	 Discriminator Loss: 0.0863 	 Generator Loss: 0.1139
+Epoch [5/50] 	 Discriminator Loss: 0.0904 	 Generator Loss: 0.1141
+Epoch [6/50] 	 Discriminator Loss: 0.1012 	 Generator Loss: 0.0949
+Epoch [7/50] 	 Discriminator Loss: 0.1022 	 Generator Loss: 0.0999
+Epoch [8/50] 	 Discriminator Loss: 0.0870 	 Generator Loss: 0.1052
+Epoch [9/50] 	 Discriminator Loss: 0.0774 	 Generator Loss: 0.1025
+Epoch [10/50] 	 Discriminator Loss: 0.0699 	 Generator Loss: 0.1272
+Epoch [11/50] 	 Discriminator Loss: 0.0690 	 Generator Loss: 0.1535
+Epoch [12/50] 	 Discriminator Loss: 0.0463 	 Generator Loss: 0.1999
+Epoch [13/50] 	 Discriminator Loss: 0.0581 	 Generator Loss: 0.2433
+Epoch [14/50] 	 Discriminator Loss: 0.0890 	 Generator Loss: 0.2468
+Epoch [15/50] 	 Discriminator Loss: 0.0862 	 Generator Loss: 0.1791
+Epoch [16/50] 	 Discriminator Loss: 0.0524 	 Generator Loss: 0.2143
+Epoch [17/50] 	 Discriminator Loss: 0.0170 	 Generator Loss: 0.3033
+Epoch [18/50] 	 Discriminator Loss: 0.0173 	 Generator Loss: 0.3664
+Epoch [19/50] 	 Discriminator Loss: 0.0315 	 Generator Loss: 0.3866
+Epoch [20/50] 	 Discriminator Loss: 0.0825 	 Generator Loss: 0.3795
+Epoch [21/50] 	 Discriminator Loss: 0.0942 	 Generator Loss: 0.3332
+Epoch [22/50] 	 Discriminator Loss: 0.1930 	 Generator Loss: 0.2073
+Epoch [23/50] 	 Discriminator Loss: 0.1206 	 Generator Loss: 0.1652
+Epoch [24/50] 	 Discriminator Loss: 0.0786 	 Generator Loss: 0.1232
+Epoch [25/50] 	 Discriminator Loss: 0.0540 	 Generator Loss: 0.1177
+Epoch [26/50] 	 Discriminator Loss: 0.0368 	 Generator Loss: 0.1668
+Epoch [27/50] 	 Discriminator Loss: 0.0281 	 Generator Loss: 0.2142
+Epoch [28/50] 	 Discriminator Loss: 0.0212 	 Generator Loss: 0.2565
+Epoch [29/50] 	 Discriminator Loss: 0.0191 	 Generator Loss: 0.3039
+Epoch [30/50] 	 Discriminator Loss: 0.0190 	 Generator Loss: 0.3168
+Epoch [31/50] 	 Discriminator Loss: 0.0285 	 Generator Loss: 0.3051
+Epoch [32/50] 	 Discriminator Loss: 0.0611 	 Generator Loss: 0.2507
+Epoch [33/50] 	 Discriminator Loss: 0.1453 	 Generator Loss: 0.1962
+Epoch [34/50] 	 Discriminator Loss: 0.1486 	 Generator Loss: 0.1877
+Epoch [35/50] 	 Discriminator Loss: 0.1345 	 Generator Loss: 0.1622
+Epoch [36/50] 	 Discriminator Loss: 0.1060 	 Generator Loss: 0.1324
+Epoch [37/50] 	 Discriminator Loss: 0.0846 	 Generator Loss: 0.1046
+Epoch [38/50] 	 Discriminator Loss: 0.0767 	 Generator Loss: 0.0876
+Epoch [39/50] 	 Discriminator Loss: 0.0701 	 Generator Loss: 0.0906
+Epoch [40/50] 	 Discriminator Loss: 0.0627 	 Generator Loss: 0.1111
+Epoch [41/50] 	 Discriminator Loss: 0.0472 	 Generator Loss: 0.1376
+Epoch [42/50] 	 Discriminator Loss: 0.0324 	 Generator Loss: 0.1622
+Epoch [43/50] 	 Discriminator Loss: 0.0316 	 Generator Loss: 0.1719
+Epoch [44/50] 	 Discriminator Loss: 0.0464 	 Generator Loss: 0.1586
+Epoch [45/50] 	 Discriminator Loss: 0.0453 	 Generator Loss: 0.2130
+Epoch [46/50] 	 Discriminator Loss: 0.0301 	 Generator Loss: 0.2256
+Epoch [47/50] 	 Discriminator Loss: 0.0725 	 Generator Loss: 0.2760
+Epoch [48/50] 	 Discriminator Loss: 0.0856 	 Generator Loss: 0.3045
+Epoch [49/50] 	 Discriminator Loss: 0.0825 	 Generator Loss: 0.2809
+Epoch [50/50] 	 Discriminator Loss: 0.1583 	 Generator Loss: 0.2490
+Saving synthetic data:
+/home/ymax29os/.local/lib/python3.9/site-packages/torch/nn/modules/transformer.py:307: UserWarning: enable_nested_tensor is True, but self.use_nested_tensor is False because encoder_layer.self_attn.batch_first was not True(use batch_first for better inference performance)
+  warnings.warn(f"enable_nested_tensor is True, but self.use_nested_tensor is False because {why_not_sparsity_fast_path}")
+Traceback (most recent call last):
+  File "/home/ymax29os/ams_project-2/transformer_GAN/main.py", line 93, in <module>
+    discriminative_score = discriminative_score_metric(transformer_discriminator, real_data, synthetic_data, device)
+  File "/home/ymax29os/ams_project-2/transformer_GAN/metrics/discriminative_metric.py", line 52, in discriminative_score_metric
+    predictions = transformer_discriminator(batch_x.unsqueeze(1)).squeeze(1)
+  File "/home/ymax29os/.local/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/ymax29os/.local/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/ymax29os/ams_project-2/transformer_GAN/metrics/transformer_discriminator.py", line 39, in forward
+    x = self.transformer_encoder(x)
+  File "/home/ymax29os/.local/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/ymax29os/.local/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/ymax29os/.local/lib/python3.9/site-packages/torch/nn/modules/transformer.py", line 416, in forward
+    output = mod(output, src_mask=mask, is_causal=is_causal, src_key_padding_mask=src_key_padding_mask_for_layers)
+  File "/home/ymax29os/.local/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/ymax29os/.local/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/ymax29os/.local/lib/python3.9/site-packages/torch/nn/modules/transformer.py", line 749, in forward
+    x = self.norm1(x + self._sa_block(x, src_mask, src_key_padding_mask, is_causal=is_causal))
+  File "/home/ymax29os/.local/lib/python3.9/site-packages/torch/nn/modules/transformer.py", line 761, in _sa_block
+    return self.dropout1(x)
+  File "/home/ymax29os/.local/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/ymax29os/.local/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/ymax29os/.local/lib/python3.9/site-packages/torch/nn/modules/dropout.py", line 59, in forward
+    return F.dropout(input, self.p, self.training, self.inplace)
+  File "/home/ymax29os/.local/lib/python3.9/site-packages/torch/nn/functional.py", line 1295, in dropout
+    return _VF.dropout_(input, p, training) if inplace else _VF.dropout(input, p, training)
+KeyboardInterrupt

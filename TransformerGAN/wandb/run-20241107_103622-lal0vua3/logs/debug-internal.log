@@ -1,0 +1,18 @@
+{"time":"2024-11-07T10:36:22.428175365+01:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-11-07T10:36:22.428222375+01:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/GANs/ams_project-2/transformer_GAN/wandb/run-20241107_103622-lal0vua3/logs/debug-core.log"}
+{"time":"2024-11-07T10:36:22.428320856+01:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-11-07T10:36:22.428328446+01:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/GANs/ams_project-2/transformer_GAN/wandb/run-20241107_103622-lal0vua3/logs/debug-core.log"}
+{"time":"2024-11-07T10:36:22.448400435+01:00","level":"INFO","msg":"created new stream","id":"lal0vua3"}
+{"time":"2024-11-07T10:36:22.448450915+01:00","level":"INFO","msg":"stream: started","id":"lal0vua3"}
+{"time":"2024-11-07T10:36:22.448513836+01:00","level":"INFO","msg":"sender: started","stream_id":{"value":"lal0vua3"}}
+{"time":"2024-11-07T10:36:22.448537996+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"lal0vua3"}}
+{"time":"2024-11-07T10:36:22.448522206+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"lal0vua3"}}
+{"time":"2024-11-07T10:36:22.866357737+01:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-11-07T10:36:22.867910743+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-07T10:36:26.645027104+01:00","level":"INFO","msg":"stream: closing","id":"lal0vua3"}
+{"time":"2024-11-07T10:36:26.645113395+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-07T10:36:26.64553285+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-07T10:36:29.105265375+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"lal0vua3"}}
+{"time":"2024-11-07T10:36:29.105351846+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"lal0vua3"}}
+{"time":"2024-11-07T10:36:29.105373606+01:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"lal0vua3"}}
+{"time":"2024-11-07T10:36:29.105523348+01:00","level":"INFO","msg":"stream: closed","id":"lal0vua3"}

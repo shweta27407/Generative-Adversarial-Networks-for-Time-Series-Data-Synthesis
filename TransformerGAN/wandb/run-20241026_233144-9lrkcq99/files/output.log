@@ -1,0 +1,25 @@
+/home/ymax29os/ams_project-2/transformer_GAN/transformer_model.py:95: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.
+  scaler = GradScaler()
+/home/ymax29os/.local/lib/python3.9/site-packages/torch/amp/grad_scaler.py:132: UserWarning: torch.cuda.amp.GradScaler is enabled, but CUDA is not available.  Disabling.
+  warnings.warn(
+/home/ymax29os/ams_project-2/transformer_GAN/transformer_model.py:134: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with autocast():
+/home/ymax29os/.local/lib/python3.9/site-packages/torch/amp/autocast_mode.py:265: UserWarning: User provided device_type of 'cuda', but CUDA is not available. Disabling
+  warnings.warn(
+/home/ymax29os/ams_project-2/transformer_GAN/transformer_model.py:150: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with autocast():
+Epoch [1/50] 	 Discriminator Loss: 0.1013 	 Generator Loss: 0.0923
+Epoch [2/50] 	 Discriminator Loss: 0.0537 	 Generator Loss: 0.2052
+Epoch [3/50] 	 Discriminator Loss: 0.0147 	 Generator Loss: 0.4280
+Traceback (most recent call last):
+  File "/home/ymax29os/ams_project-2/transformer_GAN/main.py", line 52, in <module>
+    generator = train_transformer_model(
+  File "/home/ymax29os/ams_project-2/transformer_GAN/transformer_model.py", line 157, in train_transformer_model
+    scaler.scale(loss_gen).backward()
+  File "/home/ymax29os/.local/lib/python3.9/site-packages/torch/_tensor.py", line 521, in backward
+    torch.autograd.backward(
+  File "/home/ymax29os/.local/lib/python3.9/site-packages/torch/autograd/__init__.py", line 289, in backward
+    _engine_run_backward(
+  File "/home/ymax29os/.local/lib/python3.9/site-packages/torch/autograd/graph.py", line 768, in _engine_run_backward
+    return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+KeyboardInterrupt

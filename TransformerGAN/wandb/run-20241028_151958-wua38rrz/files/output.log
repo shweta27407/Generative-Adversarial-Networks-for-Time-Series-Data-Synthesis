@@ -1,0 +1,77 @@
+/home/ymax29os/GANs/ams_project-2/transformer_GAN/transformer_model.py:95: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.
+  scaler = GradScaler()
+/home/ymax29os/.local/lib/python3.9/site-packages/torch/amp/grad_scaler.py:132: UserWarning: torch.cuda.amp.GradScaler is enabled, but CUDA is not available.  Disabling.
+  warnings.warn(
+/home/ymax29os/GANs/ams_project-2/transformer_GAN/transformer_model.py:154: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with autocast():
+/home/ymax29os/.local/lib/python3.9/site-packages/torch/amp/autocast_mode.py:265: UserWarning: User provided device_type of 'cuda', but CUDA is not available. Disabling
+  warnings.warn(
+/home/ymax29os/GANs/ams_project-2/transformer_GAN/transformer_model.py:177: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with autocast():
+/home/ymax29os/.local/lib/python3.9/site-packages/torch/optim/lr_scheduler.py:216: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  warnings.warn(
+Epoch [1/500] 	 Discriminator Loss: 0.0016 	 Generator Loss: 0.5583
+Epoch [2/500] 	 Discriminator Loss: 0.0008 	 Generator Loss: 0.6426
+Epoch [3/500] 	 Discriminator Loss: 0.0006 	 Generator Loss: 0.6850
+Epoch [4/500] 	 Discriminator Loss: 0.0004 	 Generator Loss: 0.7187
+Epoch [5/500] 	 Discriminator Loss: 0.0003 	 Generator Loss: 0.7471
+Epoch [6/500] 	 Discriminator Loss: 0.0003 	 Generator Loss: 0.7729
+Epoch [7/500] 	 Discriminator Loss: 0.0002 	 Generator Loss: 0.7940
+Epoch [8/500] 	 Discriminator Loss: 0.0002 	 Generator Loss: 0.8148
+Epoch [9/500] 	 Discriminator Loss: 0.0002 	 Generator Loss: 0.8359
+Epoch [10/500] 	 Discriminator Loss: 0.0001 	 Generator Loss: 0.8520
+Epoch [11/500] 	 Discriminator Loss: 0.0001 	 Generator Loss: 0.8703
+Epoch [12/500] 	 Discriminator Loss: 0.0001 	 Generator Loss: 0.8878
+Epoch [13/500] 	 Discriminator Loss: 0.0001 	 Generator Loss: 0.9026
+Epoch [14/500] 	 Discriminator Loss: 0.0001 	 Generator Loss: 0.9166
+Epoch [15/500] 	 Discriminator Loss: 0.0001 	 Generator Loss: 0.9317
+Epoch [16/500] 	 Discriminator Loss: 0.0001 	 Generator Loss: 0.9436
+Epoch [17/500] 	 Discriminator Loss: 0.0001 	 Generator Loss: 0.9591
+Epoch [18/500] 	 Discriminator Loss: 0.0001 	 Generator Loss: 0.9694
+Epoch [19/500] 	 Discriminator Loss: 0.0001 	 Generator Loss: 0.9814
+Epoch [20/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 0.9930
+Epoch [21/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.0043
+Epoch [22/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.0148
+Epoch [23/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.0245
+Epoch [24/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.0352
+Epoch [25/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.0467
+Epoch [26/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.0552
+Epoch [27/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.0662
+Epoch [28/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.0724
+Epoch [29/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.0833
+Epoch [30/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.0922
+Epoch [31/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.1012
+Epoch [32/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.1089
+Epoch [33/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.1199
+Epoch [34/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.1269
+Epoch [35/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.1330
+Epoch [36/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.1421
+Epoch [37/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.1495
+Epoch [38/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.1569
+Epoch [39/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.1665
+Epoch [40/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.1727
+Epoch [41/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.1807
+Epoch [42/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.1896
+Epoch [43/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.1942
+Epoch [44/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.2020
+Epoch [45/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.2098
+Epoch [46/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.2171
+Epoch [47/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.2252
+Epoch [48/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.2292
+Epoch [49/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.2363
+Epoch [50/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.2450
+Epoch [51/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.2513
+Epoch [52/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.2565
+Epoch [53/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.2638
+Epoch [54/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.2736
+Epoch [55/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.2774
+Epoch [56/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.2856
+Epoch [57/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.2897
+Epoch [58/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.2969
+Epoch [59/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.3015
+Epoch [60/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.3126
+Epoch [61/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.3150
+Epoch [62/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.3215
+Epoch [63/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.3274
+Epoch [64/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.3336
+Epoch [65/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 1.3412

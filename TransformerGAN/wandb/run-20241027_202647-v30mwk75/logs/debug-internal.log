@@ -1,0 +1,18 @@
+{"time":"2024-10-27T20:26:47.616974946+01:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-27T20:26:47.616998217+01:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/GANs/ams_project-2/transformer_GAN/wandb/run-20241027_202647-v30mwk75/logs/debug-core.log"}
+{"time":"2024-10-27T20:26:47.617078338+01:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-27T20:26:47.617084928+01:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/GANs/ams_project-2/transformer_GAN/wandb/run-20241027_202647-v30mwk75/logs/debug-core.log"}
+{"time":"2024-10-27T20:26:47.630537428+01:00","level":"INFO","msg":"created new stream","id":"v30mwk75"}
+{"time":"2024-10-27T20:26:47.630570439+01:00","level":"INFO","msg":"stream: started","id":"v30mwk75"}
+{"time":"2024-10-27T20:26:47.630640719+01:00","level":"INFO","msg":"sender: started","stream_id":{"value":"v30mwk75"}}
+{"time":"2024-10-27T20:26:47.63069533+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"v30mwk75"}}
+{"time":"2024-10-27T20:26:47.630621179+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"v30mwk75"}}
+{"time":"2024-10-27T20:26:47.964039145+01:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-27T20:26:47.966309839+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-27T20:27:29.543827673+01:00","level":"INFO","msg":"stream: closing","id":"v30mwk75"}
+{"time":"2024-10-27T20:27:29.543865893+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-27T20:27:29.543967114+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-27T20:27:32.030323689+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"v30mwk75"}}
+{"time":"2024-10-27T20:27:32.0304118+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"v30mwk75"}}
+{"time":"2024-10-27T20:27:32.0304268+01:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"v30mwk75"}}
+{"time":"2024-10-27T20:27:32.030527221+01:00","level":"INFO","msg":"stream: closed","id":"v30mwk75"}

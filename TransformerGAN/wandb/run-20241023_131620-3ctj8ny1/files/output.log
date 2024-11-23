@@ -1,0 +1,15 @@
+/home/ymax29os/ams_project-2/transformer_GAN/transformer_model.py:92: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.
+  scaler = GradScaler()
+/home/ymax29os/.local/lib/python3.9/site-packages/torch/amp/grad_scaler.py:132: UserWarning: torch.cuda.amp.GradScaler is enabled, but CUDA is not available.  Disabling.
+  warnings.warn(
+/home/ymax29os/ams_project-2/transformer_GAN/transformer_model.py:109: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with autocast():
+/home/ymax29os/.local/lib/python3.9/site-packages/torch/amp/autocast_mode.py:265: UserWarning: User provided device_type of 'cuda', but CUDA is not available. Disabling
+  warnings.warn(
+/home/ymax29os/ams_project-2/transformer_GAN/transformer_model.py:125: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with autocast():
+Epoch [1/1] 	 Discriminator Loss: 0.0909 	 Generator Loss: 0.0877
+Traceback (most recent call last):
+  File "/home/ymax29os/ams_project-2/transformer_GAN/main.py", line 71, in <module>
+    df = pd.DataFrame(synthetic_data.cpu().detach().numpy())
+AttributeError: 'numpy.ndarray' object has no attribute 'cpu'

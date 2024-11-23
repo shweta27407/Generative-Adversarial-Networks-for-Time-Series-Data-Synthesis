@@ -1,0 +1,27 @@
+2024-10-28 16:05:47,176 INFO    MainThread:2644042 [wandb_setup.py:_flush():77] Current SDK version is 0.18.1
+2024-10-28 16:05:47,176 INFO    MainThread:2644042 [wandb_setup.py:_flush():77] Configure stats pid to 2644042
+2024-10-28 16:05:47,176 INFO    MainThread:2644042 [wandb_setup.py:_flush():77] Loading settings from /home/ymax29os/.config/wandb/settings
+2024-10-28 16:05:47,176 INFO    MainThread:2644042 [wandb_setup.py:_flush():77] Loading settings from /home/ymax29os/GANs/ams_project-2/transformer_GAN/wandb/settings
+2024-10-28 16:05:47,176 INFO    MainThread:2644042 [wandb_setup.py:_flush():77] Loading settings from environment variables: {}
+2024-10-28 16:05:47,176 INFO    MainThread:2644042 [wandb_setup.py:_flush():77] Inferring run settings from compute environment: {'program_relpath': 'transformer_GAN/main.py', 'program_abspath': '/home/ymax29os/GANs/ams_project-2/transformer_GAN/main.py', 'program': '/home/ymax29os/GANs/ams_project-2/transformer_GAN/main.py'}
+2024-10-28 16:05:47,176 INFO    MainThread:2644042 [wandb_setup.py:_flush():77] Applying login settings: {'api_key': '***REDACTED***'}
+2024-10-28 16:05:47,177 INFO    MainThread:2644042 [wandb_setup.py:_flush():77] Applying login settings: {'api_key': '***REDACTED***'}
+2024-10-28 16:05:47,177 INFO    MainThread:2644042 [wandb_setup.py:_flush():77] Applying login settings: {}
+2024-10-28 16:05:47,177 INFO    MainThread:2644042 [wandb_init.py:_log_setup():532] Logging user logs to /home/ymax29os/GANs/ams_project-2/transformer_GAN/wandb/run-20241028_160547-ph8gu5bq/logs/debug.log
+2024-10-28 16:05:47,177 INFO    MainThread:2644042 [wandb_init.py:_log_setup():533] Logging internal logs to /home/ymax29os/GANs/ams_project-2/transformer_GAN/wandb/run-20241028_160547-ph8gu5bq/logs/debug-internal.log
+2024-10-28 16:05:47,177 INFO    MainThread:2644042 [wandb_init.py:init():616] calling init triggers
+2024-10-28 16:05:47,177 INFO    MainThread:2644042 [wandb_init.py:init():623] wandb.init called with sweep_config: {}
+config: {'num_samples': 10000, 'embed_size': 64, 'num_layers': 3, 'heads': 4, 'forward_expansion': 4, 'dropout': 0.1, 'max_length': 50, 'batch_size': 64, 'learning_rate': 0.0002, 'num_epochs': 500}
+2024-10-28 16:05:47,177 INFO    MainThread:2644042 [wandb_init.py:init():666] starting backend
+2024-10-28 16:05:47,177 INFO    MainThread:2644042 [wandb_init.py:init():670] setting up manager
+2024-10-28 16:05:47,178 INFO    MainThread:2644042 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-10-28 16:05:47,179 INFO    MainThread:2644042 [wandb_init.py:init():678] backend started and connected
+2024-10-28 16:05:47,185 INFO    MainThread:2644042 [wandb_init.py:init():773] updated telemetry
+2024-10-28 16:05:47,211 INFO    MainThread:2644042 [wandb_init.py:init():806] communicating run to backend with 90.0 second timeout
+2024-10-28 16:05:47,741 INFO    MainThread:2644042 [wandb_init.py:init():857] starting run threads in backend
+2024-10-28 16:05:47,884 INFO    MainThread:2644042 [wandb_run.py:_console_start():2459] atexit reg
+2024-10-28 16:05:47,885 INFO    MainThread:2644042 [wandb_run.py:_redirect():2307] redirect: wrap_raw
+2024-10-28 16:05:47,885 INFO    MainThread:2644042 [wandb_run.py:_redirect():2372] Wrapping output streams.
+2024-10-28 16:05:47,885 INFO    MainThread:2644042 [wandb_run.py:_redirect():2397] Redirects installed.
+2024-10-28 16:05:47,887 INFO    MainThread:2644042 [wandb_init.py:init():900] run started, returning control to user process
+2024-10-28 16:39:31,755 WARNING MsgRouterThr:2644042 [router.py:message_loop():77] message_loop has been closed

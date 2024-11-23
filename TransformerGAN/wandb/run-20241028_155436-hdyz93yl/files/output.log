@@ -1,0 +1,45 @@
+/home/ymax29os/GANs/ams_project-2/transformer_GAN/transformer_model.py:95: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.
+  scaler = GradScaler()
+/home/ymax29os/.local/lib/python3.9/site-packages/torch/amp/grad_scaler.py:132: UserWarning: torch.cuda.amp.GradScaler is enabled, but CUDA is not available.  Disabling.
+  warnings.warn(
+/home/ymax29os/GANs/ams_project-2/transformer_GAN/transformer_model.py:154: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with autocast():
+/home/ymax29os/.local/lib/python3.9/site-packages/torch/amp/autocast_mode.py:265: UserWarning: User provided device_type of 'cuda', but CUDA is not available. Disabling
+  warnings.warn(
+/home/ymax29os/GANs/ams_project-2/transformer_GAN/transformer_model.py:177: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with autocast():
+/home/ymax29os/.local/lib/python3.9/site-packages/torch/optim/lr_scheduler.py:216: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  warnings.warn(
+Epoch [1/500] 	 Discriminator Loss: 0.0026 	 Generator Loss: 0.5086
+Epoch [2/500] 	 Discriminator Loss: 0.0010 	 Generator Loss: 0.6160
+Epoch [3/500] 	 Discriminator Loss: 0.0007 	 Generator Loss: 0.6618
+Epoch [4/500] 	 Discriminator Loss: 0.0005 	 Generator Loss: 0.6958
+Epoch [5/500] 	 Discriminator Loss: 0.0004 	 Generator Loss: 0.7283
+Epoch [6/500] 	 Discriminator Loss: 0.0003 	 Generator Loss: 0.7539
+Epoch [7/500] 	 Discriminator Loss: 0.0003 	 Generator Loss: 0.7778
+Epoch [8/500] 	 Discriminator Loss: 0.0002 	 Generator Loss: 0.8004
+Epoch [9/500] 	 Discriminator Loss: 0.0002 	 Generator Loss: 0.8211
+Epoch [10/500] 	 Discriminator Loss: 0.0002 	 Generator Loss: 0.8379
+Epoch [11/500] 	 Discriminator Loss: 0.0001 	 Generator Loss: 0.8577
+Epoch [12/500] 	 Discriminator Loss: 0.0001 	 Generator Loss: 0.8745
+Epoch [13/500] 	 Discriminator Loss: 0.0001 	 Generator Loss: 0.8913
+Epoch [14/500] 	 Discriminator Loss: 0.0001 	 Generator Loss: 0.9071
+Epoch [15/500] 	 Discriminator Loss: 0.0001 	 Generator Loss: 0.9198
+Epoch [16/500] 	 Discriminator Loss: 0.0001 	 Generator Loss: 0.9344
+Epoch [17/500] 	 Discriminator Loss: 0.0001 	 Generator Loss: 0.9462
+Epoch [18/500] 	 Discriminator Loss: 0.0001 	 Generator Loss: 0.9614
+Epoch [19/500] 	 Discriminator Loss: 0.0001 	 Generator Loss: 0.9731
+Epoch [20/500] 	 Discriminator Loss: 0.0001 	 Generator Loss: 0.9852
+Epoch [21/500] 	 Discriminator Loss: 0.0000 	 Generator Loss: 0.9972
+Traceback (most recent call last):
+  File "/home/ymax29os/GANs/ams_project-2/transformer_GAN/main.py", line 52, in <module>
+    generator = train_transformer_model(
+  File "/home/ymax29os/GANs/ams_project-2/transformer_GAN/transformer_model.py", line 188, in train_transformer_model
+    scaler.scale(loss_gen).backward()
+  File "/home/ymax29os/.local/lib/python3.9/site-packages/torch/_tensor.py", line 521, in backward
+    torch.autograd.backward(
+  File "/home/ymax29os/.local/lib/python3.9/site-packages/torch/autograd/__init__.py", line 289, in backward
+    _engine_run_backward(
+  File "/home/ymax29os/.local/lib/python3.9/site-packages/torch/autograd/graph.py", line 768, in _engine_run_backward
+    return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+KeyboardInterrupt

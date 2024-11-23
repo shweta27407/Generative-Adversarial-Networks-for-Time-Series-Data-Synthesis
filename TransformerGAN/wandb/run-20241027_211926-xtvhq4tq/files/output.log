@@ -1,0 +1,303 @@
+/home/ymax29os/GANs/ams_project-2/transformer_GAN/transformer_model.py:95: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.
+  scaler = GradScaler()
+/home/ymax29os/.local/lib/python3.9/site-packages/torch/amp/grad_scaler.py:132: UserWarning: torch.cuda.amp.GradScaler is enabled, but CUDA is not available.  Disabling.
+  warnings.warn(
+/home/ymax29os/GANs/ams_project-2/transformer_GAN/transformer_model.py:134: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with autocast():
+/home/ymax29os/.local/lib/python3.9/site-packages/torch/amp/autocast_mode.py:265: UserWarning: User provided device_type of 'cuda', but CUDA is not available. Disabling
+  warnings.warn(
+/home/ymax29os/GANs/ams_project-2/transformer_GAN/transformer_model.py:155: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with autocast():
+
+
+ output torch.Size([3200]) tensor([ 0.9217, -0.2672, -0.5457,  ...,  0.1094,  0.6021, -0.4593],
+       grad_fn=<ViewBackward0>)
+
+
+ loss_gen tensor(0.6945, grad_fn=<BinaryCrossEntropyWithLogitsBackward0>)
+
+
+ output torch.Size([3200]) tensor([ 0.4271,  0.9278, -0.3998,  ...,  0.7396,  0.8079,  0.5163],
+       grad_fn=<ViewBackward0>)
+
+
+ loss_gen tensor(0.6690, grad_fn=<BinaryCrossEntropyWithLogitsBackward0>)
+
+
+ output torch.Size([3200]) tensor([-0.1318,  0.9591, -0.0222,  ..., -0.0106,  0.4193,  0.2102],
+       grad_fn=<ViewBackward0>)
+
+
+ loss_gen tensor(0.6590, grad_fn=<BinaryCrossEntropyWithLogitsBackward0>)
+
+
+ output torch.Size([3200]) tensor([0.4032, 0.6176, 0.5350,  ..., 0.0122, 0.3695, 0.4709],
+       grad_fn=<ViewBackward0>)
+
+
+ loss_gen tensor(0.6552, grad_fn=<BinaryCrossEntropyWithLogitsBackward0>)
+
+
+ output torch.Size([3200]) tensor([ 0.3108,  0.1063, -0.2111,  ...,  0.1946,  0.3289, -0.3034],
+       grad_fn=<ViewBackward0>)
+
+
+ loss_gen tensor(0.6620, grad_fn=<BinaryCrossEntropyWithLogitsBackward0>)
+
+
+ output torch.Size([3200]) tensor([ 0.8139,  0.4932, -0.2288,  ..., -0.0828, -0.1309,  0.1645],
+       grad_fn=<ViewBackward0>)
+
+
+ loss_gen tensor(0.6597, grad_fn=<BinaryCrossEntropyWithLogitsBackward0>)
+
+
+ output torch.Size([3200]) tensor([-0.4260,  0.1112, -0.1261,  ..., -0.2120,  0.3719, -0.1465],
+       grad_fn=<ViewBackward0>)
+
+
+ loss_gen tensor(0.6664, grad_fn=<BinaryCrossEntropyWithLogitsBackward0>)
+
+
+ output torch.Size([3200]) tensor([ 0.2903, -0.2211, -0.2085,  ...,  0.5847,  0.5380, -0.1321],
+       grad_fn=<ViewBackward0>)
+
+
+ loss_gen tensor(0.6920, grad_fn=<BinaryCrossEntropyWithLogitsBackward0>)
+
+
+ output torch.Size([3200]) tensor([0.5586, 0.7376, 0.0739,  ..., 0.6164, 0.5876, 0.0907],
+       grad_fn=<ViewBackward0>)
+
+
+ loss_gen tensor(0.7025, grad_fn=<BinaryCrossEntropyWithLogitsBackward0>)
+
+
+ output torch.Size([3200]) tensor([-0.3921,  0.4164,  0.1529,  ..., -0.6171,  0.6770,  0.1079],
+       grad_fn=<ViewBackward0>)
+
+
+ loss_gen tensor(0.7271, grad_fn=<BinaryCrossEntropyWithLogitsBackward0>)
+
+
+ output torch.Size([3200]) tensor([ 0.2884, -0.3484,  0.2710,  ...,  0.1500,  0.0057, -0.4278],
+       grad_fn=<ViewBackward0>)
+
+
+ loss_gen tensor(0.7436, grad_fn=<BinaryCrossEntropyWithLogitsBackward0>)
+
+
+ output torch.Size([3200]) tensor([-0.2693,  1.0729, -0.5158,  ..., -0.0825,  0.1340,  0.1681],
+       grad_fn=<ViewBackward0>)
+
+
+ loss_gen tensor(0.7663, grad_fn=<BinaryCrossEntropyWithLogitsBackward0>)
+
+
+ output torch.Size([3200]) tensor([-0.4592,  0.2861, -0.9235,  ..., -0.4572,  0.1308,  0.3401],
+       grad_fn=<ViewBackward0>)
+
+
+ loss_gen tensor(0.7897, grad_fn=<BinaryCrossEntropyWithLogitsBackward0>)
+
+
+ output torch.Size([3200]) tensor([-0.6701,  0.3424,  0.1255,  ..., -0.2190,  0.8413, -0.1780],
+       grad_fn=<ViewBackward0>)
+
+
+ loss_gen tensor(0.8130, grad_fn=<BinaryCrossEntropyWithLogitsBackward0>)
+
+
+ output torch.Size([3200]) tensor([-0.2332,  0.1463, -0.5822,  ..., -0.3103,  0.3243, -0.2981],
+       grad_fn=<ViewBackward0>)
+
+
+ loss_gen tensor(0.8294, grad_fn=<BinaryCrossEntropyWithLogitsBackward0>)
+
+
+ output torch.Size([3200]) tensor([ 0.0129,  0.6139,  0.0192,  ..., -0.2628, -0.1233,  0.3345],
+       grad_fn=<ViewBackward0>)
+
+
+ loss_gen tensor(0.8474, grad_fn=<BinaryCrossEntropyWithLogitsBackward0>)
+
+
+ output torch.Size([3200]) tensor([-0.3742,  0.3536, -0.5834,  ..., -0.0889, -0.1305,  0.0991],
+       grad_fn=<ViewBackward0>)
+
+
+ loss_gen tensor(0.8548, grad_fn=<BinaryCrossEntropyWithLogitsBackward0>)
+
+
+ output torch.Size([3200]) tensor([-0.2016,  0.0875, -0.3724,  ..., -0.6862,  0.1809, -0.0042],
+       grad_fn=<ViewBackward0>)
+
+
+ loss_gen tensor(0.8705, grad_fn=<BinaryCrossEntropyWithLogitsBackward0>)
+
+
+ output torch.Size([3200]) tensor([ 0.0423,  0.0171, -0.7378,  ..., -0.2288,  0.4626, -0.9744],
+       grad_fn=<ViewBackward0>)
+
+
+ loss_gen tensor(0.8789, grad_fn=<BinaryCrossEntropyWithLogitsBackward0>)
+
+
+ output torch.Size([3200]) tensor([-0.8725,  0.0408, -0.1948,  ..., -0.8258,  0.0079, -0.0746],
+       grad_fn=<ViewBackward0>)
+
+
+ loss_gen tensor(0.8757, grad_fn=<BinaryCrossEntropyWithLogitsBackward0>)
+
+
+ output torch.Size([3200]) tensor([ 0.6296, -0.2296, -0.9385,  ..., -0.8191,  0.6006,  0.2286],
+       grad_fn=<ViewBackward0>)
+
+
+ loss_gen tensor(0.8853, grad_fn=<BinaryCrossEntropyWithLogitsBackward0>)
+
+
+ output torch.Size([3200]) tensor([-0.2509,  0.6713, -0.3256,  ..., -0.8240,  0.3329,  0.0103],
+       grad_fn=<ViewBackward0>)
+
+
+ loss_gen tensor(0.8914, grad_fn=<BinaryCrossEntropyWithLogitsBackward0>)
+
+
+ output torch.Size([3200]) tensor([-0.3809,  0.2400, -0.4564,  ..., -0.9715,  0.0736,  0.0937],
+       grad_fn=<ViewBackward0>)
+
+
+ loss_gen tensor(0.8878, grad_fn=<BinaryCrossEntropyWithLogitsBackward0>)
+
+
+ output torch.Size([3200]) tensor([-0.1659,  0.5335, -0.9151,  ..., -0.3506, -0.1129, -0.4480],
+       grad_fn=<ViewBackward0>)
+
+
+ loss_gen tensor(0.8748, grad_fn=<BinaryCrossEntropyWithLogitsBackward0>)
+
+
+ output torch.Size([3200]) tensor([ 0.4655,  0.7659, -1.2686,  ..., -0.5462, -0.1309, -0.2431],
+       grad_fn=<ViewBackward0>)
+
+
+ loss_gen tensor(0.8621, grad_fn=<BinaryCrossEntropyWithLogitsBackward0>)
+
+
+ output torch.Size([3200]) tensor([-0.0087,  0.1694, -1.1449,  ..., -0.5757,  0.2567,  1.4389],
+       grad_fn=<ViewBackward0>)
+
+
+ loss_gen tensor(0.8573, grad_fn=<BinaryCrossEntropyWithLogitsBackward0>)
+
+
+ output torch.Size([3200]) tensor([ 0.0488,  0.1860, -0.7839,  ..., -1.1744, -0.0391,  0.0058],
+       grad_fn=<ViewBackward0>)
+
+
+ loss_gen tensor(0.8502, grad_fn=<BinaryCrossEntropyWithLogitsBackward0>)
+
+
+ output torch.Size([3200]) tensor([ 0.6620, -0.1424, -0.6252,  ..., -0.3464, -0.2235, -0.4303],
+       grad_fn=<ViewBackward0>)
+
+
+ loss_gen tensor(0.8384, grad_fn=<BinaryCrossEntropyWithLogitsBackward0>)
+
+
+ output torch.Size([3200]) tensor([-0.0090,  0.4728, -0.7237,  ..., -0.3845, -0.2715,  0.7772],
+       grad_fn=<ViewBackward0>)
+
+
+ loss_gen tensor(0.8236, grad_fn=<BinaryCrossEntropyWithLogitsBackward0>)
+
+
+ output torch.Size([3200]) tensor([ 0.5284,  0.3863, -0.4287,  ..., -1.0554, -0.2448,  0.1420],
+       grad_fn=<ViewBackward0>)
+
+
+ loss_gen tensor(0.8210, grad_fn=<BinaryCrossEntropyWithLogitsBackward0>)
+
+
+ output torch.Size([3200]) tensor([ 0.0887, -0.8819, -0.8238,  ..., -0.5541,  0.3057,  1.2159],
+       grad_fn=<ViewBackward0>)
+
+
+ loss_gen tensor(0.8021, grad_fn=<BinaryCrossEntropyWithLogitsBackward0>)
+
+
+ output torch.Size([3200]) tensor([-0.3467, -0.2540, -0.6220,  ..., -0.8164,  0.1338,  0.2096],
+       grad_fn=<ViewBackward0>)
+
+
+ loss_gen tensor(0.7908, grad_fn=<BinaryCrossEntropyWithLogitsBackward0>)
+
+
+ output torch.Size([3200]) tensor([-0.1302,  0.1812, -1.2659,  ...,  0.0352, -0.1126,  0.1780],
+       grad_fn=<ViewBackward0>)
+
+
+ loss_gen tensor(0.7713, grad_fn=<BinaryCrossEntropyWithLogitsBackward0>)
+
+
+ output torch.Size([3200]) tensor([-0.0641, -0.3175, -0.1231,  ..., -0.8604, -0.3521,  0.4687],
+       grad_fn=<ViewBackward0>)
+
+
+ loss_gen tensor(0.7635, grad_fn=<BinaryCrossEntropyWithLogitsBackward0>)
+
+
+ output torch.Size([3200]) tensor([-0.2862,  0.1979,  0.4506,  ..., -0.5212, -0.5656,  0.6856],
+       grad_fn=<ViewBackward0>)
+
+
+ loss_gen tensor(0.7538, grad_fn=<BinaryCrossEntropyWithLogitsBackward0>)
+
+
+ output torch.Size([3200]) tensor([ 0.0822,  0.4455, -0.3528,  ..., -0.8800,  0.2256,  0.4703],
+       grad_fn=<ViewBackward0>)
+
+
+ loss_gen tensor(0.7412, grad_fn=<BinaryCrossEntropyWithLogitsBackward0>)
+
+
+ output torch.Size([3200]) tensor([-0.2311,  0.8888,  0.0161,  ..., -0.1512, -0.2150,  0.0772],
+       grad_fn=<ViewBackward0>)
+
+
+ loss_gen tensor(0.7326, grad_fn=<BinaryCrossEntropyWithLogitsBackward0>)
+
+
+ output torch.Size([3200]) tensor([ 0.5993, -0.1727, -0.4205,  ..., -0.4935, -0.7820,  0.8361],
+       grad_fn=<ViewBackward0>)
+
+
+ loss_gen tensor(0.7226, grad_fn=<BinaryCrossEntropyWithLogitsBackward0>)
+
+
+ output torch.Size([3200]) tensor([ 0.1146,  0.2338,  0.1756,  ..., -0.2929, -0.3057,  0.4476],
+       grad_fn=<ViewBackward0>)
+
+
+ loss_gen tensor(0.7176, grad_fn=<BinaryCrossEntropyWithLogitsBackward0>)
+
+
+ output torch.Size([3200]) tensor([ 0.1168, -0.0528, -0.2945,  ..., -0.2234, -0.3174,  0.6233],
+       grad_fn=<ViewBackward0>)
+
+
+ loss_gen tensor(0.7162, grad_fn=<BinaryCrossEntropyWithLogitsBackward0>)
+
+
+ output torch.Size([3200]) tensor([-0.0269,  0.2690,  0.1209,  ...,  0.0752, -0.4315,  0.5377],
+       grad_fn=<ViewBackward0>)
+
+
+ loss_gen tensor(0.7267, grad_fn=<BinaryCrossEntropyWithLogitsBackward0>)
+Traceback (most recent call last):
+  File "/home/ymax29os/GANs/ams_project-2/transformer_GAN/main.py", line 52, in <module>
+    generator = train_transformer_model(
+  File "/home/ymax29os/GANs/ams_project-2/transformer_GAN/transformer_model.py", line 107, in train_transformer_model
+    gc.collect()
+KeyboardInterrupt

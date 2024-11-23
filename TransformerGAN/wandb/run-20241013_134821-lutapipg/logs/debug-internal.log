@@ -1,0 +1,11 @@
+{"time":"2024-10-13T13:48:21.136284746+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-13T13:48:21.136328716+02:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/GANs/ams_project-1/transformer_GAN/wandb/run-20241013_134821-lutapipg/logs/debug-core.log"}
+{"time":"2024-10-13T13:48:21.136438908+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-13T13:48:21.136454338+02:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/GANs/ams_project-1/transformer_GAN/wandb/run-20241013_134821-lutapipg/logs/debug-core.log"}
+{"time":"2024-10-13T13:48:21.150845343+02:00","level":"INFO","msg":"created new stream","id":"lutapipg"}
+{"time":"2024-10-13T13:48:21.150903154+02:00","level":"INFO","msg":"stream: started","id":"lutapipg"}
+{"time":"2024-10-13T13:48:21.150954224+02:00","level":"INFO","msg":"sender: started","stream_id":{"value":"lutapipg"}}
+{"time":"2024-10-13T13:48:21.150993385+02:00","level":"INFO","msg":"handler: started","stream_id":{"value":"lutapipg"}}
+{"time":"2024-10-13T13:48:21.150955124+02:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"lutapipg"}}
+{"time":"2024-10-13T13:48:21.426548975+02:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-13T13:48:21.431828499+02:00","level":"INFO","msg":"Starting system monitor"}

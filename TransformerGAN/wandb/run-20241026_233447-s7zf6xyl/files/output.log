@@ -1,0 +1,25 @@
+/home/ymax29os/ams_project-2/transformer_GAN/transformer_model.py:95: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.
+  scaler = GradScaler()
+/home/ymax29os/.local/lib/python3.9/site-packages/torch/amp/grad_scaler.py:132: UserWarning: torch.cuda.amp.GradScaler is enabled, but CUDA is not available.  Disabling.
+  warnings.warn(
+/home/ymax29os/ams_project-2/transformer_GAN/transformer_model.py:134: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with autocast():
+/home/ymax29os/.local/lib/python3.9/site-packages/torch/amp/autocast_mode.py:265: UserWarning: User provided device_type of 'cuda', but CUDA is not available. Disabling
+  warnings.warn(
+/home/ymax29os/ams_project-2/transformer_GAN/transformer_model.py:150: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with autocast():
+Epoch [1/50] 	 Discriminator Loss: 0.0726 	 Generator Loss: 0.1135
+Epoch [2/50] 	 Discriminator Loss: 0.0300 	 Generator Loss: 0.3326
+Epoch [3/50] 	 Discriminator Loss: 0.1430 	 Generator Loss: 0.3539
+Epoch [4/50] 	 Discriminator Loss: 0.0808 	 Generator Loss: 0.1414
+Epoch [5/50] 	 Discriminator Loss: 0.0786 	 Generator Loss: 0.3937
+Epoch [6/50] 	 Discriminator Loss: 0.0725 	 Generator Loss: 0.2252
+Epoch [7/50] 	 Discriminator Loss: 0.0865 	 Generator Loss: 0.0781
+Epoch [8/50] 	 Discriminator Loss: 0.0799 	 Generator Loss: 0.0936
+Epoch [9/50] 	 Discriminator Loss: 0.0166 	 Generator Loss: 0.2388
+Epoch [10/50] 	 Discriminator Loss: 0.0870 	 Generator Loss: 0.0769
+Epoch [11/50] 	 Discriminator Loss: 0.0725 	 Generator Loss: 0.1172
+Epoch [12/50] 	 Discriminator Loss: 0.0074 	 Generator Loss: 0.3222
+Epoch [13/50] 	 Discriminator Loss: 0.0134 	 Generator Loss: 0.3860
+Epoch [14/50] 	 Discriminator Loss: 0.0035 	 Generator Loss: 0.4173
+Epoch [15/50] 	 Discriminator Loss: 0.0913 	 Generator Loss: 0.1674

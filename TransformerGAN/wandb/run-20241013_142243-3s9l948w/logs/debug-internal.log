@@ -1,0 +1,18 @@
+{"time":"2024-10-13T14:22:43.570256913+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-13T14:22:43.570278963+02:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/GANs/ams_project-2/transformer_GAN/wandb/run-20241013_142243-3s9l948w/logs/debug-core.log"}
+{"time":"2024-10-13T14:22:43.570388964+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-13T14:22:43.570397814+02:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/GANs/ams_project-2/transformer_GAN/wandb/run-20241013_142243-3s9l948w/logs/debug-core.log"}
+{"time":"2024-10-13T14:22:43.572577875+02:00","level":"INFO","msg":"created new stream","id":"3s9l948w"}
+{"time":"2024-10-13T14:22:43.572606046+02:00","level":"INFO","msg":"stream: started","id":"3s9l948w"}
+{"time":"2024-10-13T14:22:43.572633747+02:00","level":"INFO","msg":"handler: started","stream_id":{"value":"3s9l948w"}}
+{"time":"2024-10-13T14:22:43.572671237+02:00","level":"INFO","msg":"sender: started","stream_id":{"value":"3s9l948w"}}
+{"time":"2024-10-13T14:22:43.572700557+02:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"3s9l948w"}}
+{"time":"2024-10-13T14:22:43.887132177+02:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-13T14:22:43.888579512+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-13T14:23:05.918761772+02:00","level":"INFO","msg":"stream: closing","id":"3s9l948w"}
+{"time":"2024-10-13T14:23:05.918859453+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-13T14:23:05.91944706+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-13T14:23:08.688551542+02:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"3s9l948w"}}
+{"time":"2024-10-13T14:23:08.688607503+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"3s9l948w"}}
+{"time":"2024-10-13T14:23:08.688658334+02:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"3s9l948w"}}
+{"time":"2024-10-13T14:23:08.688791455+02:00","level":"INFO","msg":"stream: closed","id":"3s9l948w"}

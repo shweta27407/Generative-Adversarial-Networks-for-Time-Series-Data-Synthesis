@@ -1,0 +1,18 @@
+{"time":"2024-10-13T14:21:28.596308433+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-13T14:21:28.596336513+02:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/GANs/ams_project-2/transformer_GAN/wandb/run-20241013_142128-djduczh8/logs/debug-core.log"}
+{"time":"2024-10-13T14:21:28.596425884+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-13T14:21:28.596433974+02:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/GANs/ams_project-2/transformer_GAN/wandb/run-20241013_142128-djduczh8/logs/debug-core.log"}
+{"time":"2024-10-13T14:21:28.598250793+02:00","level":"INFO","msg":"created new stream","id":"djduczh8"}
+{"time":"2024-10-13T14:21:28.598285313+02:00","level":"INFO","msg":"stream: started","id":"djduczh8"}
+{"time":"2024-10-13T14:21:28.598323364+02:00","level":"INFO","msg":"sender: started","stream_id":{"value":"djduczh8"}}
+{"time":"2024-10-13T14:21:28.598325324+02:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"djduczh8"}}
+{"time":"2024-10-13T14:21:28.598362014+02:00","level":"INFO","msg":"handler: started","stream_id":{"value":"djduczh8"}}
+{"time":"2024-10-13T14:21:28.867686579+02:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-13T14:21:28.869045592+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-13T14:21:51.864764171+02:00","level":"INFO","msg":"stream: closing","id":"djduczh8"}
+{"time":"2024-10-13T14:21:51.864947483+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-13T14:21:51.865302636+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-13T14:21:52.91332854+02:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"djduczh8"}}
+{"time":"2024-10-13T14:21:52.913399101+02:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"djduczh8"}}
+{"time":"2024-10-13T14:21:52.91337443+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"djduczh8"}}
+{"time":"2024-10-13T14:21:52.913458061+02:00","level":"INFO","msg":"stream: closed","id":"djduczh8"}

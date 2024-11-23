@@ -1,0 +1,18 @@
+{"time":"2024-10-29T22:32:52.191269235+01:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-29T22:32:52.191328477+01:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/GANs/ams_project-2/transformer_GAN/wandb/run-20241029_223252-lth1mqdg/logs/debug-core.log"}
+{"time":"2024-10-29T22:32:52.191530479+01:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-29T22:32:52.191561599+01:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/GANs/ams_project-2/transformer_GAN/wandb/run-20241029_223252-lth1mqdg/logs/debug-core.log"}
+{"time":"2024-10-29T22:32:52.194227677+01:00","level":"INFO","msg":"created new stream","id":"lth1mqdg"}
+{"time":"2024-10-29T22:32:52.194262177+01:00","level":"INFO","msg":"stream: started","id":"lth1mqdg"}
+{"time":"2024-10-29T22:32:52.194303919+01:00","level":"INFO","msg":"sender: started","stream_id":{"value":"lth1mqdg"}}
+{"time":"2024-10-29T22:32:52.194348839+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"lth1mqdg"}}
+{"time":"2024-10-29T22:32:52.194298408+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"lth1mqdg"}}
+{"time":"2024-10-29T22:32:52.681982343+01:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-29T22:32:52.683999335+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-29T22:37:22.033625218+01:00","level":"INFO","msg":"stream: closing","id":"lth1mqdg"}
+{"time":"2024-10-29T22:37:22.033746089+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-29T22:37:22.03671522+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-29T22:37:23.026669153+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"lth1mqdg"}}
+{"time":"2024-10-29T22:37:23.026758924+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"lth1mqdg"}}
+{"time":"2024-10-29T22:37:23.026772114+01:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"lth1mqdg"}}
+{"time":"2024-10-29T22:37:23.028369332+01:00","level":"INFO","msg":"stream: closed","id":"lth1mqdg"}

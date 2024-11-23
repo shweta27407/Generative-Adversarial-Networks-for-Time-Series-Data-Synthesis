@@ -1,0 +1,18 @@
+{"time":"2024-10-29T22:30:04.095197159+01:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-29T22:30:04.095219859+01:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/GANs/ams_project-2/transformer_GAN/wandb/run-20241029_223004-yjok7sk4/logs/debug-core.log"}
+{"time":"2024-10-29T22:30:04.09530537+01:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-29T22:30:04.09531365+01:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/GANs/ams_project-2/transformer_GAN/wandb/run-20241029_223004-yjok7sk4/logs/debug-core.log"}
+{"time":"2024-10-29T22:30:04.097811077+01:00","level":"INFO","msg":"created new stream","id":"yjok7sk4"}
+{"time":"2024-10-29T22:30:04.097862207+01:00","level":"INFO","msg":"stream: started","id":"yjok7sk4"}
+{"time":"2024-10-29T22:30:04.097897398+01:00","level":"INFO","msg":"sender: started","stream_id":{"value":"yjok7sk4"}}
+{"time":"2024-10-29T22:30:04.097923628+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"yjok7sk4"}}
+{"time":"2024-10-29T22:30:04.097982578+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"yjok7sk4"}}
+{"time":"2024-10-29T22:30:04.378520492+01:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-29T22:30:04.380420292+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-29T22:32:44.404993784+01:00","level":"INFO","msg":"stream: closing","id":"yjok7sk4"}
+{"time":"2024-10-29T22:32:44.405066975+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-29T22:32:44.406809114+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-29T22:32:45.336559629+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"yjok7sk4"}}
+{"time":"2024-10-29T22:32:45.33666871+01:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"yjok7sk4"}}
+{"time":"2024-10-29T22:32:45.33664647+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"yjok7sk4"}}
+{"time":"2024-10-29T22:32:45.336766921+01:00","level":"INFO","msg":"stream: closed","id":"yjok7sk4"}

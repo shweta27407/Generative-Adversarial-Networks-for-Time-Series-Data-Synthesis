@@ -1,0 +1,32 @@
+{
+  "os": "Linux-5.14.0-427.22.1.el9_4.x86_64-x86_64-with-glibc2.34",
+  "python": "3.9.18",
+  "startedAt": "2024-10-29T21:46:38.702792Z",
+  "program": "/home/ymax29os/GANs/ams_project-2/transformer_GAN/main.py",
+  "codePath": "transformer_GAN/main.py",
+  "git": {
+    "remote": "https://github.com/GMP159/ams_project.git",
+    "commit": "475337a2f5296c6672866b267616c2f7d45148df"
+  },
+  "email": "archana.yadav@st.ovgu.de",
+  "root": "/home/ymax29os/GANs/ams_project-2/transformer_GAN",
+  "host": "ants",
+  "username": "ymax29os",
+  "executable": "/usr/bin/python3",
+  "codePathLocal": "main.py",
+  "cpu_count": 12,
+  "cpu_count_logical": 12,
+  "disk": {
+    "/": {
+      "total": "32853770240",
+      "used": "16189272064"
+    }
+  },
+  "memory": {
+    "total": "100712579072"
+  },
+  "cpu": {
+    "count": 12,
+    "countLogical": 12
+  }
+}

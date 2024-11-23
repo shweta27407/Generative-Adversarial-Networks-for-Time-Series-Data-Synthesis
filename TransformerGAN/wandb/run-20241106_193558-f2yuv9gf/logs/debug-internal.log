@@ -1,0 +1,19 @@
+{"time":"2024-11-06T19:35:58.881710153+01:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-11-06T19:35:58.881737333+01:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/GANs/ams_project-2/transformer_GAN/wandb/run-20241106_193558-f2yuv9gf/logs/debug-core.log"}
+{"time":"2024-11-06T19:35:58.881814994+01:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-11-06T19:35:58.881823424+01:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/GANs/ams_project-2/transformer_GAN/wandb/run-20241106_193558-f2yuv9gf/logs/debug-core.log"}
+{"time":"2024-11-06T19:35:58.884599633+01:00","level":"INFO","msg":"created new stream","id":"f2yuv9gf"}
+{"time":"2024-11-06T19:35:58.884642224+01:00","level":"INFO","msg":"stream: started","id":"f2yuv9gf"}
+{"time":"2024-11-06T19:35:58.884707734+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"f2yuv9gf"}}
+{"time":"2024-11-06T19:35:58.884738565+01:00","level":"INFO","msg":"sender: started","stream_id":{"value":"f2yuv9gf"}}
+{"time":"2024-11-06T19:35:58.884674614+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"f2yuv9gf"}}
+{"time":"2024-11-06T19:35:59.227388489+01:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-11-06T19:35:59.22935601+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-06T23:09:14.849986148+01:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/archana-yadav-otto-von-guericke-university-magdeburg/Transformer_GAN/f2yuv9gf/file_stream"}
+{"time":"2024-11-07T00:27:17.478566504+01:00","level":"INFO","msg":"stream: closing","id":"f2yuv9gf"}
+{"time":"2024-11-07T00:27:17.478737396+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-07T00:27:17.485115499+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-07T00:27:18.463942557+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"f2yuv9gf"}}
+{"time":"2024-11-07T00:27:18.464005928+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"f2yuv9gf"}}
+{"time":"2024-11-07T00:27:18.464056639+01:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"f2yuv9gf"}}
+{"time":"2024-11-07T00:27:18.466975758+01:00","level":"INFO","msg":"stream: closed","id":"f2yuv9gf"}

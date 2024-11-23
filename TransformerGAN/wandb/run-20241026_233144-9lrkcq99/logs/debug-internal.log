@@ -1,0 +1,29 @@
+{"time":"2024-10-26T23:31:44.963603759+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-26T23:31:44.963624809+02:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/ams_project-2/transformer_GAN/wandb/run-20241026_233144-9lrkcq99/logs/debug-core.log"}
+{"time":"2024-10-26T23:31:44.96370033+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-26T23:31:44.96370943+02:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/ams_project-2/transformer_GAN/wandb/run-20241026_233144-9lrkcq99/logs/debug-core.log"}
+{"time":"2024-10-26T23:31:44.965584909+02:00","level":"INFO","msg":"created new stream","id":"9lrkcq99"}
+{"time":"2024-10-26T23:31:44.965617899+02:00","level":"INFO","msg":"stream: started","id":"9lrkcq99"}
+{"time":"2024-10-26T23:31:44.96564678+02:00","level":"INFO","msg":"sender: started","stream_id":{"value":"9lrkcq99"}}
+{"time":"2024-10-26T23:31:44.96567058+02:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"9lrkcq99"}}
+{"time":"2024-10-26T23:31:44.96568713+02:00","level":"INFO","msg":"handler: started","stream_id":{"value":"9lrkcq99"}}
+{"time":"2024-10-26T23:31:45.243368283+02:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-26T23:31:45.244919399+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-26T23:32:56.202082773+02:00","level":"INFO","msg":"stream: closing","id":"9lrkcq99"}
+{"time":"2024-10-26T23:32:56.202188264+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-26T23:32:56.204187175+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-26T23:32:56.334785239+02:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-26T23:32:56.382383017+02:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-26T23:32:56.382430708+02:00","level":"ERROR","msg":"runfiles: CreateRunFiles returned error: returned error 404 Not Found: {\"errors\":[{\"message\":\"run Transformer_GAN/9lrkcq99 not found during createRunFiles\",\"path\":[\"createRunFiles\"]}],\"data\":{\"createRunFiles\":null}}"}
+{"time":"2024-10-26T23:32:58.571439373+02:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-26T23:33:00.871007814+02:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/files/archana-yadav-otto-von-guericke-university-magdeburg/Transformer_GAN/9lrkcq99/file_stream"}
+{"time":"2024-10-26T23:33:00.871162075+02:00","level":"ERROR+4","msg":"filestream: fatal error: filestream: failed to upload: 404 Not Found path=files/archana-yadav-otto-von-guericke-university-magdeburg/Transformer_GAN/9lrkcq99/file_stream: {\"error\":\"run Transformer_GAN/9lrkcq99 not found while streaming file\"}"}
+{"time":"2024-10-26T23:33:03.675804787+02:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-26T23:33:12.188284851+02:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-26T23:33:28.88385515+02:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-26T23:34:07.387334158+02:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-26T23:35:07.532598185+02:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-26T23:36:07.674007371+02:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-26T23:37:07.813138425+02:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-26T23:38:07.949748004+02:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-26T23:39:08.087604148+02:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}

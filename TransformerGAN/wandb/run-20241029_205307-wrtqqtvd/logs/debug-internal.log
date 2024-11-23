@@ -1,0 +1,18 @@
+{"time":"2024-10-29T20:53:07.694530174+01:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-29T20:53:07.694559225+01:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/GANs/ams_project-2/transformer_GAN/wandb/run-20241029_205307-wrtqqtvd/logs/debug-core.log"}
+{"time":"2024-10-29T20:53:07.694695507+01:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-29T20:53:07.694717857+01:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/GANs/ams_project-2/transformer_GAN/wandb/run-20241029_205307-wrtqqtvd/logs/debug-core.log"}
+{"time":"2024-10-29T20:53:07.69712475+01:00","level":"INFO","msg":"created new stream","id":"wrtqqtvd"}
+{"time":"2024-10-29T20:53:07.697167331+01:00","level":"INFO","msg":"stream: started","id":"wrtqqtvd"}
+{"time":"2024-10-29T20:53:07.697206301+01:00","level":"INFO","msg":"sender: started","stream_id":{"value":"wrtqqtvd"}}
+{"time":"2024-10-29T20:53:07.697202161+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"wrtqqtvd"}}
+{"time":"2024-10-29T20:53:07.697233641+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"wrtqqtvd"}}
+{"time":"2024-10-29T20:53:08.036448184+01:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-29T20:53:08.03802338+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-29T20:54:14.959723479+01:00","level":"INFO","msg":"stream: closing","id":"wrtqqtvd"}
+{"time":"2024-10-29T20:54:14.95975915+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-29T20:54:14.959968402+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-29T20:54:15.956800525+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"wrtqqtvd"}}
+{"time":"2024-10-29T20:54:15.956893886+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"wrtqqtvd"}}
+{"time":"2024-10-29T20:54:15.956924986+01:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"wrtqqtvd"}}
+{"time":"2024-10-29T20:54:15.957031167+01:00","level":"INFO","msg":"stream: closed","id":"wrtqqtvd"}

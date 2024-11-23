@@ -1,0 +1,18 @@
+{"time":"2024-10-29T22:46:38.70629913+01:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-29T22:46:38.706327571+01:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/GANs/ams_project-2/transformer_GAN/wandb/run-20241029_224638-xa4jsklz/logs/debug-core.log"}
+{"time":"2024-10-29T22:46:38.706417602+01:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-29T22:46:38.706426912+01:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/GANs/ams_project-2/transformer_GAN/wandb/run-20241029_224638-xa4jsklz/logs/debug-core.log"}
+{"time":"2024-10-29T22:46:38.708675835+01:00","level":"INFO","msg":"created new stream","id":"xa4jsklz"}
+{"time":"2024-10-29T22:46:38.708705085+01:00","level":"INFO","msg":"stream: started","id":"xa4jsklz"}
+{"time":"2024-10-29T22:46:38.708734375+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"xa4jsklz"}}
+{"time":"2024-10-29T22:46:38.708788786+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"xa4jsklz"}}
+{"time":"2024-10-29T22:46:38.708790746+01:00","level":"INFO","msg":"sender: started","stream_id":{"value":"xa4jsklz"}}
+{"time":"2024-10-29T22:46:39.034335808+01:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-29T22:46:39.035757872+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-29T22:46:48.909065309+01:00","level":"INFO","msg":"stream: closing","id":"xa4jsklz"}
+{"time":"2024-10-29T22:46:48.909114869+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-29T22:46:48.909876017+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-29T22:46:49.820148783+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"xa4jsklz"}}
+{"time":"2024-10-29T22:46:49.820194623+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"xa4jsklz"}}
+{"time":"2024-10-29T22:46:49.820237964+01:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"xa4jsklz"}}
+{"time":"2024-10-29T22:46:49.820363605+01:00","level":"INFO","msg":"stream: closed","id":"xa4jsklz"}

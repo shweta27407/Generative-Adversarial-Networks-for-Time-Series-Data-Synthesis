@@ -1,0 +1,18 @@
+{"time":"2024-10-27T21:30:37.899553288+01:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-27T21:30:37.899578559+01:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/GANs/ams_project-2/transformer_GAN/wandb/run-20241027_213037-ccqq82kq/logs/debug-core.log"}
+{"time":"2024-10-27T21:30:37.89968226+01:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-27T21:30:37.89969186+01:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/GANs/ams_project-2/transformer_GAN/wandb/run-20241027_213037-ccqq82kq/logs/debug-core.log"}
+{"time":"2024-10-27T21:30:37.901938384+01:00","level":"INFO","msg":"created new stream","id":"ccqq82kq"}
+{"time":"2024-10-27T21:30:37.902013905+01:00","level":"INFO","msg":"stream: started","id":"ccqq82kq"}
+{"time":"2024-10-27T21:30:37.902046755+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"ccqq82kq"}}
+{"time":"2024-10-27T21:30:37.902142736+01:00","level":"INFO","msg":"sender: started","stream_id":{"value":"ccqq82kq"}}
+{"time":"2024-10-27T21:30:37.902210837+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ccqq82kq"}}
+{"time":"2024-10-27T21:30:38.175143707+01:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-27T21:30:38.176817234+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-27T23:05:28.238683512+01:00","level":"INFO","msg":"stream: closing","id":"ccqq82kq"}
+{"time":"2024-10-27T23:05:28.238823563+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-27T23:05:28.242786676+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-27T23:05:29.416828803+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"ccqq82kq"}}
+{"time":"2024-10-27T23:05:29.416928444+01:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"ccqq82kq"}}
+{"time":"2024-10-27T23:05:29.416927184+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ccqq82kq"}}
+{"time":"2024-10-27T23:05:29.421743545+01:00","level":"INFO","msg":"stream: closed","id":"ccqq82kq"}

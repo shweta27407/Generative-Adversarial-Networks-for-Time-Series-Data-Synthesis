@@ -1,0 +1,11 @@
+{"time":"2024-10-26T23:34:47.409070986+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-26T23:34:47.409097336+02:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/ams_project-2/transformer_GAN/wandb/run-20241026_233447-s7zf6xyl/logs/debug-core.log"}
+{"time":"2024-10-26T23:34:47.409190837+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-26T23:34:47.409219137+02:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/ams_project-2/transformer_GAN/wandb/run-20241026_233447-s7zf6xyl/logs/debug-core.log"}
+{"time":"2024-10-26T23:34:47.411249358+02:00","level":"INFO","msg":"created new stream","id":"s7zf6xyl"}
+{"time":"2024-10-26T23:34:47.411284339+02:00","level":"INFO","msg":"stream: started","id":"s7zf6xyl"}
+{"time":"2024-10-26T23:34:47.411317159+02:00","level":"INFO","msg":"sender: started","stream_id":{"value":"s7zf6xyl"}}
+{"time":"2024-10-26T23:34:47.41140039+02:00","level":"INFO","msg":"handler: started","stream_id":{"value":"s7zf6xyl"}}
+{"time":"2024-10-26T23:34:47.411332459+02:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"s7zf6xyl"}}
+{"time":"2024-10-26T23:34:47.693197474+02:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-26T23:34:47.695241954+02:00","level":"INFO","msg":"Starting system monitor"}

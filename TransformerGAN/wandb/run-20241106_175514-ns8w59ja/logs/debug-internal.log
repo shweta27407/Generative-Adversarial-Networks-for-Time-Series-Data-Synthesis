@@ -1,0 +1,19 @@
+{"time":"2024-11-06T17:55:14.333416362+01:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-11-06T17:55:14.333443202+01:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/GANs/ams_project-2/transformer_GAN/wandb/run-20241106_175514-ns8w59ja/logs/debug-core.log"}
+{"time":"2024-11-06T17:55:14.333545893+01:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-11-06T17:55:14.333556853+01:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/GANs/ams_project-2/transformer_GAN/wandb/run-20241106_175514-ns8w59ja/logs/debug-core.log"}
+{"time":"2024-11-06T17:55:14.336258521+01:00","level":"INFO","msg":"created new stream","id":"ns8w59ja"}
+{"time":"2024-11-06T17:55:14.336304092+01:00","level":"INFO","msg":"stream: started","id":"ns8w59ja"}
+{"time":"2024-11-06T17:55:14.336362742+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"ns8w59ja"}}
+{"time":"2024-11-06T17:55:14.336371053+01:00","level":"INFO","msg":"sender: started","stream_id":{"value":"ns8w59ja"}}
+{"time":"2024-11-06T17:55:14.336334712+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ns8w59ja"}}
+{"time":"2024-11-06T17:55:14.687943434+01:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-11-06T17:55:14.689684071+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-06T18:02:00.373625484+01:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/archana-yadav-otto-von-guericke-university-magdeburg/Transformer_GAN/ns8w59ja/file_stream"}
+{"time":"2024-11-06T18:34:58.377726029+01:00","level":"INFO","msg":"stream: closing","id":"ns8w59ja"}
+{"time":"2024-11-06T18:34:58.37788649+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-06T18:34:58.381374625+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-06T18:35:01.888774446+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"ns8w59ja"}}
+{"time":"2024-11-06T18:35:01.888856787+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ns8w59ja"}}
+{"time":"2024-11-06T18:35:01.888887517+01:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"ns8w59ja"}}
+{"time":"2024-11-06T18:35:02.094502251+01:00","level":"INFO","msg":"stream: closed","id":"ns8w59ja"}

@@ -1,0 +1,18 @@
+{"time":"2024-10-26T23:27:28.827723338+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-26T23:27:28.82774595+02:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/ams_project-2/transformer_GAN/wandb/run-20241026_232728-tfu33yy0/logs/debug-core.log"}
+{"time":"2024-10-26T23:27:28.827840051+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-26T23:27:28.827850491+02:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/ams_project-2/transformer_GAN/wandb/run-20241026_232728-tfu33yy0/logs/debug-core.log"}
+{"time":"2024-10-26T23:27:28.830034022+02:00","level":"INFO","msg":"created new stream","id":"tfu33yy0"}
+{"time":"2024-10-26T23:27:28.830098713+02:00","level":"INFO","msg":"stream: started","id":"tfu33yy0"}
+{"time":"2024-10-26T23:27:28.830176754+02:00","level":"INFO","msg":"handler: started","stream_id":{"value":"tfu33yy0"}}
+{"time":"2024-10-26T23:27:28.830150674+02:00","level":"INFO","msg":"sender: started","stream_id":{"value":"tfu33yy0"}}
+{"time":"2024-10-26T23:27:28.830143844+02:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"tfu33yy0"}}
+{"time":"2024-10-26T23:27:29.149674437+02:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-26T23:27:29.151410464+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-26T23:28:00.604446604+02:00","level":"INFO","msg":"stream: closing","id":"tfu33yy0"}
+{"time":"2024-10-26T23:28:00.604521676+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-26T23:28:00.604685157+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-26T23:28:02.674312296+02:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"tfu33yy0"}}
+{"time":"2024-10-26T23:28:02.674393626+02:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"tfu33yy0"}}
+{"time":"2024-10-26T23:28:02.674370566+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"tfu33yy0"}}
+{"time":"2024-10-26T23:28:02.674668489+02:00","level":"INFO","msg":"stream: closed","id":"tfu33yy0"}

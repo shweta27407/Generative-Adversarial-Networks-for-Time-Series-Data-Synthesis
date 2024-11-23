@@ -1,0 +1,18 @@
+{"time":"2024-10-13T14:36:50.582342837+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-13T14:36:50.582373227+02:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/GANs/ams_project-2/transformer_GAN/wandb/run-20241013_143650-v1dw8cip/logs/debug-core.log"}
+{"time":"2024-10-13T14:36:50.582475308+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-13T14:36:50.582500568+02:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/GANs/ams_project-2/transformer_GAN/wandb/run-20241013_143650-v1dw8cip/logs/debug-core.log"}
+{"time":"2024-10-13T14:36:50.586052954+02:00","level":"INFO","msg":"created new stream","id":"v1dw8cip"}
+{"time":"2024-10-13T14:36:50.586083354+02:00","level":"INFO","msg":"stream: started","id":"v1dw8cip"}
+{"time":"2024-10-13T14:36:50.586118795+02:00","level":"INFO","msg":"sender: started","stream_id":{"value":"v1dw8cip"}}
+{"time":"2024-10-13T14:36:50.586134885+02:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"v1dw8cip"}}
+{"time":"2024-10-13T14:36:50.586190725+02:00","level":"INFO","msg":"handler: started","stream_id":{"value":"v1dw8cip"}}
+{"time":"2024-10-13T14:36:50.854845321+02:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-13T14:36:50.8566832+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-13T14:39:14.495084301+02:00","level":"INFO","msg":"stream: closing","id":"v1dw8cip"}
+{"time":"2024-10-13T14:39:14.495253012+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-13T14:39:14.496419193+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-13T14:39:16.686252655+02:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"v1dw8cip"}}
+{"time":"2024-10-13T14:39:16.686346866+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"v1dw8cip"}}
+{"time":"2024-10-13T14:39:16.686379766+02:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"v1dw8cip"}}
+{"time":"2024-10-13T14:39:16.686514368+02:00","level":"INFO","msg":"stream: closed","id":"v1dw8cip"}

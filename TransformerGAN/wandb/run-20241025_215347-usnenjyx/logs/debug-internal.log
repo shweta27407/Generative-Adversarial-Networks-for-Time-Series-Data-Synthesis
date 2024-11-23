@@ -1,0 +1,18 @@
+{"time":"2024-10-25T21:53:47.43004756+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-25T21:53:47.43006988+02:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/ams_project-2/transformer_GAN/wandb/run-20241025_215347-usnenjyx/logs/debug-core.log"}
+{"time":"2024-10-25T21:53:47.430145551+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-25T21:53:47.430152251+02:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/ams_project-2/transformer_GAN/wandb/run-20241025_215347-usnenjyx/logs/debug-core.log"}
+{"time":"2024-10-25T21:53:47.45415369+02:00","level":"INFO","msg":"created new stream","id":"usnenjyx"}
+{"time":"2024-10-25T21:53:47.45418452+02:00","level":"INFO","msg":"stream: started","id":"usnenjyx"}
+{"time":"2024-10-25T21:53:47.454205931+02:00","level":"INFO","msg":"handler: started","stream_id":{"value":"usnenjyx"}}
+{"time":"2024-10-25T21:53:47.454256451+02:00","level":"INFO","msg":"sender: started","stream_id":{"value":"usnenjyx"}}
+{"time":"2024-10-25T21:53:47.454285562+02:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"usnenjyx"}}
+{"time":"2024-10-25T21:53:47.792160199+02:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-25T21:53:47.793683615+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-25T21:55:47.882401732+02:00","level":"INFO","msg":"stream: closing","id":"usnenjyx"}
+{"time":"2024-10-25T21:55:47.882600774+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-25T21:55:47.884101729+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-25T21:55:50.255113237+02:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"usnenjyx"}}
+{"time":"2024-10-25T21:55:50.255178687+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"usnenjyx"}}
+{"time":"2024-10-25T21:55:50.255203317+02:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"usnenjyx"}}
+{"time":"2024-10-25T21:55:50.256835534+02:00","level":"INFO","msg":"stream: closed","id":"usnenjyx"}

@@ -1,0 +1,18 @@
+{"time":"2024-10-29T22:46:58.523306564+01:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-29T22:46:58.523331725+01:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/GANs/ams_project-2/transformer_GAN/wandb/run-20241029_224658-zlgxe2cl/logs/debug-core.log"}
+{"time":"2024-10-29T22:46:58.523414186+01:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-29T22:46:58.523421586+01:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/GANs/ams_project-2/transformer_GAN/wandb/run-20241029_224658-zlgxe2cl/logs/debug-core.log"}
+{"time":"2024-10-29T22:46:58.526080673+01:00","level":"INFO","msg":"created new stream","id":"zlgxe2cl"}
+{"time":"2024-10-29T22:46:58.526113943+01:00","level":"INFO","msg":"stream: started","id":"zlgxe2cl"}
+{"time":"2024-10-29T22:46:58.526140403+01:00","level":"INFO","msg":"sender: started","stream_id":{"value":"zlgxe2cl"}}
+{"time":"2024-10-29T22:46:58.526211174+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"zlgxe2cl"}}
+{"time":"2024-10-29T22:46:58.526183584+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"zlgxe2cl"}}
+{"time":"2024-10-29T22:46:58.843172015+01:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-29T22:46:58.844655231+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-29T22:49:03.698694668+01:00","level":"INFO","msg":"stream: closing","id":"zlgxe2cl"}
+{"time":"2024-10-29T22:49:03.699206923+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-29T22:49:03.701713069+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-29T22:49:04.747680898+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"zlgxe2cl"}}
+{"time":"2024-10-29T22:49:04.747728688+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"zlgxe2cl"}}
+{"time":"2024-10-29T22:49:04.747798779+01:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"zlgxe2cl"}}
+{"time":"2024-10-29T22:49:04.75074574+01:00","level":"INFO","msg":"stream: closed","id":"zlgxe2cl"}

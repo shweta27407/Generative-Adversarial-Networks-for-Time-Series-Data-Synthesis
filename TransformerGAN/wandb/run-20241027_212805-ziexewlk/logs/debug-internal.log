@@ -1,0 +1,18 @@
+{"time":"2024-10-27T21:28:05.380596934+01:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-27T21:28:05.380626104+01:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/GANs/ams_project-2/transformer_GAN/wandb/run-20241027_212805-ziexewlk/logs/debug-core.log"}
+{"time":"2024-10-27T21:28:05.380745176+01:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-27T21:28:05.380753706+01:00","level":"INFO","msg":"created symlink","path":"/home/ymax29os/GANs/ams_project-2/transformer_GAN/wandb/run-20241027_212805-ziexewlk/logs/debug-core.log"}
+{"time":"2024-10-27T21:28:05.382946569+01:00","level":"INFO","msg":"created new stream","id":"ziexewlk"}
+{"time":"2024-10-27T21:28:05.38301285+01:00","level":"INFO","msg":"stream: started","id":"ziexewlk"}
+{"time":"2024-10-27T21:28:05.38307995+01:00","level":"INFO","msg":"sender: started","stream_id":{"value":"ziexewlk"}}
+{"time":"2024-10-27T21:28:05.38305311+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ziexewlk"}}
+{"time":"2024-10-27T21:28:05.38308699+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"ziexewlk"}}
+{"time":"2024-10-27T21:28:05.661932411+01:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-27T21:28:05.667880164+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-27T21:28:06.792344321+01:00","level":"INFO","msg":"stream: closing","id":"ziexewlk"}
+{"time":"2024-10-27T21:28:06.792394992+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-27T21:28:06.792570043+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-27T21:28:07.663807379+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"ziexewlk"}}
+{"time":"2024-10-27T21:28:07.66389208+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ziexewlk"}}
+{"time":"2024-10-27T21:28:07.66391797+01:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"ziexewlk"}}
+{"time":"2024-10-27T21:28:07.664125233+01:00","level":"INFO","msg":"stream: closed","id":"ziexewlk"}
